@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="organge_dark">#f26627</color>
+    <color name="orange_light">#f9a26c</color>
+    <color name="whiteish">#efeeee</color>
+    <color name="blue_light">#9bd7d1</color>
+    <color name="blue_dark">#325d79</color>
+    <color name="orange_super_light">#F0F0DF</color>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--<Customize your theme here. &ndash;&gt;-->
+        <item name="colorPrimary">@color/blue_light</item>
+        <item name="colorPrimaryDark">@color/blue_dark</item>
+        <item name="colorAccent">@color/organge_dark</item>
+        <item name="editTextColor">@color/blue_dark</item>
+        <item name="android:colorForeground">@color/blue_dark</item>
+        <item name="actionMenuTextAppearance">@color/organge_dark</item>
+        <item name="actionBarItemBackground">@color/whiteish</item>
+
+    </style>
+
+</resources>
